@@ -30,6 +30,6 @@ These insights can help HR teams realign retention strategies and improve onboar
 ---
 
 ##  Report Contents
-Report Preveiw: (https://github.com/itsparas14/Employee-Attrition-Report/blob/main/HR%20Analytics%20ScapShot.png)
+[Report Preveiw](https://github.com/itsparas14/Employee-Attrition-Report/blob/main/HR%20Analytics%20ScapShot.png)
 
 
